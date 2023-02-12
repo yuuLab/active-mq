@@ -8,3 +8,6 @@ ActiveMQ Artemis を使用したメッセージキューイングシステム。
 - Subscriber > [active-mq-consumer](https://github.com/yuuLab/active-mq/tree/main/active-mq-producer)
 
 Apache ActiveMQ Artemis Download : https://activemq.apache.org/components/artemis/
+
+## Zenn Article
+https://zenn.dev/yuulab/articles/ea3a67e956a0f2
